@@ -1,0 +1,10 @@
+# component  -> owning team        (slack channel)
+core         team-core            #eng-core
+auth         team-platform        #eng-platform
+cloudsave    team-platform        #eng-platform
+shop         team-monetization    #eng-monetization
+billing      team-monetization    #eng-monetization
+leaderboard  team-live            #eng-liveops
+economy      team-live            #eng-liveops
+audio        team-core            #eng-core
+ui           team-ui              #eng-ui

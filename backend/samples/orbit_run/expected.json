@@ -1,0 +1,73 @@
+{
+  "FB-001": {
+    "category": "bug",
+    "outcome": "new_ticket",
+    "component": "shop"
+  },
+  "FB-002": {
+    "category": "bug",
+    "outcome": "duplicate",
+    "duplicate_of": "batch:FB-001"
+  },
+  "FB-003": {
+    "category": "bug",
+    "outcome": "duplicate",
+    "duplicate_of": "batch:FB-001"
+  },
+  "FB-004": {
+    "category": "praise",
+    "outcome": "dropped"
+  },
+  "FB-005": {
+    "category": "spam",
+    "outcome": "dropped"
+  },
+  "FB-006": {
+    "category": "bug",
+    "outcome": "duplicate",
+    "duplicate_of": "OR-104"
+  },
+  "FB-007": {
+    "category": "feature_request",
+    "outcome": "dropped"
+  },
+  "FB-008": {
+    "category": "bug",
+    "outcome": "needs_info"
+  },
+  "FB-009": {
+    "category": "support_question",
+    "outcome": "dropped"
+  },
+  "FB-010": {
+    "category": "bug",
+    "outcome": "new_ticket",
+    "component": "cloudsave",
+    "min_severity": "high"
+  },
+  "FB-011": {
+    "category": "bug",
+    "outcome": "new_ticket",
+    "component": "audio"
+  },
+  "FB-012": {
+    "category": "bug",
+    "outcome": "duplicate",
+    "duplicate_of": "OR-108"
+  },
+  "FB-013": {
+    "category": "bug",
+    "outcome": "needs_info"
+  },
+  "FB-014": {
+    "category": "bug",
+    "outcome": "new_ticket",
+    "component": "billing",
+    "min_severity": "high"
+  },
+  "FB-015": {
+    "category": "bug",
+    "outcome": "duplicate",
+    "duplicate_of": "batch:FB-001"
+  }
+}

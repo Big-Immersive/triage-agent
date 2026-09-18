@@ -1,0 +1,103 @@
+[
+  {
+    "id": "OR-101",
+    "title": "Crash on launch after OS update to iOS 17.5",
+    "status": "closed",
+    "severity": "high",
+    "component": "core",
+    "affected_versions": [
+      "2.3.7"
+    ],
+    "fixed_in": "2.3.8",
+    "owner": "team-core",
+    "created": "2026-06-02",
+    "description": "App crashes immediately on launch on iOS 17.5 due to deprecated Metal API call in renderer init."
+  },
+  {
+    "id": "OR-104",
+    "title": "Google sign-in fails on Android 14 (returns to title screen)",
+    "status": "open",
+    "severity": "high",
+    "component": "auth",
+    "affected_versions": [
+      "2.4.0",
+      "2.4.1"
+    ],
+    "fixed_in": null,
+    "owner": "team-platform",
+    "created": "2026-08-24",
+    "description": "Tapping 'Sign in with Google' opens the account chooser, then the app returns to the title screen without signing in. Logs show GoogleSignInException code 10 (DEVELOPER_ERROR). Reproduces on Pixel 7, Samsung A54 on Android 14."
+  },
+  {
+    "id": "OR-108",
+    "title": "Leaderboard shows negative / wrapped scores above 2,147,483,647",
+    "status": "open",
+    "severity": "medium",
+    "component": "leaderboard",
+    "affected_versions": [
+      "2.3.9",
+      "2.4.0",
+      "2.4.1"
+    ],
+    "fixed_in": null,
+    "owner": "team-live",
+    "created": "2026-08-30",
+    "description": "Scores are stored as int32 on the leaderboard service; players exceeding ~2.1 billion points wrap to negative numbers. Reported by top-100 players."
+  },
+  {
+    "id": "OR-110",
+    "title": "Music does not resume after phone call (audio ducking)",
+    "status": "closed",
+    "severity": "low",
+    "component": "audio",
+    "affected_versions": [
+      "2.3.2",
+      "2.3.3"
+    ],
+    "fixed_in": "2.3.5",
+    "owner": "team-core",
+    "created": "2026-04-11",
+    "description": "After an incoming call ends, background music stays muted until app restart. Fixed by re-acquiring audio focus on resume."
+  },
+  {
+    "id": "OR-112",
+    "title": "Feature: colour-blind friendly palette option",
+    "status": "open",
+    "severity": "low",
+    "component": "ui",
+    "affected_versions": [],
+    "fixed_in": null,
+    "owner": "team-ui",
+    "created": "2026-07-15",
+    "description": "Backlog feature request. Add a deuteranopia/protanopia palette toggle in Settings > Accessibility."
+  },
+  {
+    "id": "OR-115",
+    "title": "Daily reward claimable twice by changing device clock",
+    "status": "open",
+    "severity": "medium",
+    "component": "economy",
+    "affected_versions": [
+      "2.4.0"
+    ],
+    "fixed_in": null,
+    "owner": "team-live",
+    "created": "2026-09-01",
+    "description": "Daily reward timer uses device local time. Server-side validation needed."
+  },
+  {
+    "id": "OR-117",
+    "title": "Tutorial tooltip overlaps pause button on small screens",
+    "status": "open",
+    "severity": "low",
+    "component": "ui",
+    "affected_versions": [
+      "2.4.0",
+      "2.4.1"
+    ],
+    "fixed_in": null,
+    "owner": "team-ui",
+    "created": "2026-09-05",
+    "description": "On devices narrower than 360dp the level-1 tutorial tooltip covers the pause button."
+  }
+]

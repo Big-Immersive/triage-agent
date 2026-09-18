@@ -1,0 +1,13 @@
+{
+  "id": "FB-003",
+  "source": "support_email",
+  "received_at": "2026-09-13T08:02:00Z",
+  "author": "j.tanaka@example.com",
+  "rating": null,
+  "metadata": {
+    "device": "iPhone 15",
+    "os": "iOS 18.1",
+    "app_version": "2.4.1"
+  },
+  "text": "Hello, I'm unable to access the in-game store. Whenever I press the store button the app closes. I've reinstalled twice. iPhone 15, latest iOS. I'd like to buy the starter pack but cannot. Kind regards, Jun"
+}

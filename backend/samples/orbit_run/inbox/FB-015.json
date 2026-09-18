@@ -1,0 +1,13 @@
+{
+  "id": "FB-015",
+  "source": "in_app_feedback",
+  "received_at": "2026-09-16T20:15:00Z",
+  "author": "u81002",
+  "rating": null,
+  "metadata": {
+    "device": "Xiaomi 13",
+    "os": "Android 14",
+    "app_version": "2.4.1"
+  },
+  "text": "Love the new season but the shop crashes on my Xiaomi whenever I open it from level select. Otherwise 10/10."
+}

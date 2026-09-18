@@ -1,0 +1,13 @@
+{
+  "id": "FB-006",
+  "source": "play_store_review",
+  "received_at": "2026-09-14T10:20:00Z",
+  "author": "carlos_mdz",
+  "rating": 2,
+  "metadata": {
+    "device": "Samsung A54",
+    "os": "Android 14",
+    "app_version": "2.4.1"
+  },
+  "text": "El juego se cierra cuando intento iniciar sesión con Google. Aparece la lista de cuentas, elijo la mía y vuelve a la pantalla de inicio sin entrar. Llevo así desde la versión anterior. Por favor arreglen esto."
+}

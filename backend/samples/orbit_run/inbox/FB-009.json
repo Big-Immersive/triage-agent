@@ -1,0 +1,13 @@
+{
+  "id": "FB-009",
+  "source": "support_email",
+  "received_at": "2026-09-15T07:10:00Z",
+  "author": "priya.n@example.com",
+  "rating": null,
+  "metadata": {
+    "device": "iPhone 14 Pro",
+    "os": "iOS 18.0",
+    "app_version": "2.4.1"
+  },
+  "text": "Hi, I got a new phone. How do I restore the packs I already paid for on my old phone? I'm signed in with the same Apple ID. Thanks!"
+}

@@ -1,0 +1,54 @@
+timestamp,app_version,device,os,signature,stack_top,user_id
+2026-09-01T04:26:00Z,2.4.0,Samsung S23,Android 14,GoogleSignInException:10,AuthManager.onSignInResult(AuthManager.kt:142),u80069
+2026-09-01T06:33:00Z,2.3.9,OnePlus 12,Android 14,OOM:LevelLoader,LevelLoader.decodeAtlas(LevelLoader.kt:55),u57415
+2026-09-01T16:19:00Z,2.3.9,Pixel 7,Android 14,OOM:LevelLoader,LevelLoader.decodeAtlas(LevelLoader.kt:55),u94268
+2026-09-05T07:42:00Z,2.4.0,Pixel 7,Android 14,GoogleSignInException:10,AuthManager.onSignInResult(AuthManager.kt:142),u40583
+2026-09-08T17:34:00Z,2.4.0,Samsung S23,Android 14,ANR:MainThread,GameLoop.tick(GameLoop.kt:40),u75889
+2026-09-08T19:51:00Z,2.4.0,Samsung S23,Android 14,ANR:MainThread,GameLoop.tick(GameLoop.kt:40),u35578
+2026-09-09T04:52:00Z,2.4.0,Samsung A54,Android 14,GoogleSignInException:10,AuthManager.onSignInResult(AuthManager.kt:142),u66429
+2026-09-09T16:23:00Z,2.3.9,Pixel 8,Android 15,OOM:LevelLoader,LevelLoader.decodeAtlas(LevelLoader.kt:55),u31894
+2026-09-09T22:26:00Z,2.4.0,OnePlus 12,Android 14,GoogleSignInException:10,AuthManager.onSignInResult(AuthManager.kt:142),u57024
+2026-09-10T18:07:00Z,2.4.1,Samsung A54,Android 14,NPE:ShopScreen.renderFeatured,ShopScreen.renderFeatured(ShopScreen.kt:214) <- ShopScreen.onOpen(ShopScreen.kt:88),u39260
+2026-09-10T18:37:00Z,2.4.1,Xiaomi 13,Android 14,NPE:ShopScreen.renderFeatured,ShopScreen.renderFeatured(ShopScreen.kt:214) <- ShopScreen.onOpen(ShopScreen.kt:88),u61993
+2026-09-10T19:13:00Z,2.4.1,OnePlus 12,Android 14,NPE:ShopScreen.renderFeatured,ShopScreen.renderFeatured(ShopScreen.kt:214) <- ShopScreen.onOpen(ShopScreen.kt:88),u75066
+2026-09-10T21:04:00Z,2.4.1,Samsung A54,Android 14,NPE:ShopScreen.renderFeatured,ShopScreen.renderFeatured(ShopScreen.kt:214) <- ShopScreen.onOpen(ShopScreen.kt:88),u83148
+2026-09-10T23:44:00Z,2.4.1,iPhone 15,iOS 18.1,NPE:ShopScreen.renderFeatured,ShopScreen.renderFeatured(ShopScreen.swift:198) <- ShopScreen.onOpen(ShopScreen.swift:71),u50580
+2026-09-11T03:32:00Z,2.4.1,Samsung S23,Android 14,NPE:ShopScreen.renderFeatured,ShopScreen.renderFeatured(ShopScreen.kt:214) <- ShopScreen.onOpen(ShopScreen.kt:88),u64804
+2026-09-11T06:28:00Z,2.4.1,Samsung A54,Android 14,CloudSaveConflict:local_older,CloudSave.merge(CloudSave.kt:301) <- CloudSave.onLogin(CloudSave.kt:120),u31273
+2026-09-11T07:05:00Z,2.4.1,Samsung A54,Android 14,NPE:ShopScreen.renderFeatured,ShopScreen.renderFeatured(ShopScreen.kt:214) <- ShopScreen.onOpen(ShopScreen.kt:88),u82226
+2026-09-11T08:30:00Z,2.4.1,iPhone 15,iOS 18.1,NPE:ShopScreen.renderFeatured,ShopScreen.renderFeatured(ShopScreen.swift:198) <- ShopScreen.onOpen(ShopScreen.swift:71),u97051
+2026-09-11T11:37:00Z,2.4.1,Pixel 8,Android 15,NPE:ShopScreen.renderFeatured,ShopScreen.renderFeatured(ShopScreen.kt:214) <- ShopScreen.onOpen(ShopScreen.kt:88),u17602
+2026-09-11T15:03:00Z,2.4.1,iPhone 15,iOS 18.1,NPE:ShopScreen.renderFeatured,ShopScreen.renderFeatured(ShopScreen.swift:198) <- ShopScreen.onOpen(ShopScreen.swift:71),u38600
+2026-09-11T18:36:00Z,2.4.1,Pixel 7,Android 14,NPE:ShopScreen.renderFeatured,ShopScreen.renderFeatured(ShopScreen.kt:214) <- ShopScreen.onOpen(ShopScreen.kt:88),u93743
+2026-09-12T12:41:00Z,2.4.1,Samsung S23,Android 14,NPE:ShopScreen.renderFeatured,ShopScreen.renderFeatured(ShopScreen.kt:214) <- ShopScreen.onOpen(ShopScreen.kt:88),u16328
+2026-09-12T20:16:00Z,2.4.1,iPhone 15,iOS 18.1,CloudSaveConflict:local_older,CloudSave.merge(CloudSave.kt:301) <- CloudSave.onLogin(CloudSave.kt:120),u55533
+2026-09-12T23:15:00Z,2.4.1,iPhone 13,iOS 17.6,NPE:ShopScreen.renderFeatured,ShopScreen.renderFeatured(ShopScreen.swift:198) <- ShopScreen.onOpen(ShopScreen.swift:71),u62153
+2026-09-13T01:05:00Z,2.4.1,OnePlus 12,Android 14,NPE:ShopScreen.renderFeatured,ShopScreen.renderFeatured(ShopScreen.kt:214) <- ShopScreen.onOpen(ShopScreen.kt:88),u66838
+2026-09-13T01:35:00Z,2.4.1,Pixel 8,Android 15,NPE:ShopScreen.renderFeatured,ShopScreen.renderFeatured(ShopScreen.kt:214) <- ShopScreen.onOpen(ShopScreen.kt:88),u27455
+2026-09-13T02:36:00Z,2.4.1,Xiaomi 13,Android 14,NPE:ShopScreen.renderFeatured,ShopScreen.renderFeatured(ShopScreen.kt:214) <- ShopScreen.onOpen(ShopScreen.kt:88),u49354
+2026-09-13T03:47:00Z,2.4.1,iPhone 15,iOS 18.1,BillingError:duplicate_transaction,StoreKitBridge.finishTransaction(StoreKitBridge.swift:77),u54909
+2026-09-13T07:09:00Z,2.4.0,Xiaomi 13,Android 14,GoogleSignInException:10,AuthManager.onSignInResult(AuthManager.kt:142),u20876
+2026-09-13T19:03:00Z,2.4.1,Pixel 7,Android 14,CloudSaveConflict:local_older,CloudSave.merge(CloudSave.kt:301) <- CloudSave.onLogin(CloudSave.kt:120),u23419
+2026-09-14T12:25:00Z,2.4.1,iPhone 14 Pro,iOS 18.0,CloudSaveConflict:local_older,CloudSave.merge(CloudSave.kt:301) <- CloudSave.onLogin(CloudSave.kt:120),u61658
+2026-09-14T15:07:00Z,2.4.1,iPhone 14 Pro,iOS 18.0,BillingError:duplicate_transaction,StoreKitBridge.finishTransaction(StoreKitBridge.swift:77),u25119
+2026-09-14T15:53:00Z,2.4.1,iPhone 14 Pro,iOS 18.0,BillingError:duplicate_transaction,StoreKitBridge.finishTransaction(StoreKitBridge.swift:77),u31160
+2026-09-14T17:52:00Z,2.4.1,OnePlus 12,Android 14,NPE:ShopScreen.renderFeatured,ShopScreen.renderFeatured(ShopScreen.kt:214) <- ShopScreen.onOpen(ShopScreen.kt:88),u99391
+2026-09-14T20:25:00Z,2.4.1,Pixel 7,Android 14,CloudSaveConflict:local_older,CloudSave.merge(CloudSave.kt:301) <- CloudSave.onLogin(CloudSave.kt:120),u18158
+2026-09-15T00:04:00Z,2.4.1,Xiaomi 13,Android 14,CloudSaveConflict:local_older,CloudSave.merge(CloudSave.kt:301) <- CloudSave.onLogin(CloudSave.kt:120),u37256
+2026-09-15T00:29:00Z,2.4.1,iPhone 14 Pro,iOS 18.0,NPE:ShopScreen.renderFeatured,ShopScreen.renderFeatured(ShopScreen.swift:198) <- ShopScreen.onOpen(ShopScreen.swift:71),u56591
+2026-09-15T03:35:00Z,2.4.1,Pixel 7,Android 14,NPE:ShopScreen.renderFeatured,ShopScreen.renderFeatured(ShopScreen.kt:214) <- ShopScreen.onOpen(ShopScreen.kt:88),u18229
+2026-09-15T04:34:00Z,2.4.1,Pixel 8,Android 15,CloudSaveConflict:local_older,CloudSave.merge(CloudSave.kt:301) <- CloudSave.onLogin(CloudSave.kt:120),u23299
+2026-09-15T04:59:00Z,2.4.1,Pixel 7,Android 14,NPE:ShopScreen.renderFeatured,ShopScreen.renderFeatured(ShopScreen.kt:214) <- ShopScreen.onOpen(ShopScreen.kt:88),u74089
+2026-09-15T09:15:00Z,2.4.1,Samsung A54,Android 14,NPE:ShopScreen.renderFeatured,ShopScreen.renderFeatured(ShopScreen.kt:214) <- ShopScreen.onOpen(ShopScreen.kt:88),u33562
+2026-09-15T10:44:00Z,2.4.1,iPhone 14 Pro,iOS 18.0,NPE:ShopScreen.renderFeatured,ShopScreen.renderFeatured(ShopScreen.swift:198) <- ShopScreen.onOpen(ShopScreen.swift:71),u55898
+2026-09-15T15:30:00Z,2.4.1,iPhone 13,iOS 17.6,BillingError:duplicate_transaction,StoreKitBridge.finishTransaction(StoreKitBridge.swift:77),u50875
+2026-09-15T18:20:00Z,2.4.1,Samsung S23,Android 14,GoogleSignInException:10,AuthManager.onSignInResult(AuthManager.kt:142),u26448
+2026-09-16T01:29:00Z,2.4.1,Xiaomi 13,Android 14,GoogleSignInException:10,AuthManager.onSignInResult(AuthManager.kt:142),u99204
+2026-09-16T04:34:00Z,2.4.1,Samsung S23,Android 14,NPE:ShopScreen.renderFeatured,ShopScreen.renderFeatured(ShopScreen.kt:214) <- ShopScreen.onOpen(ShopScreen.kt:88),u25439
+2026-09-16T10:29:00Z,2.4.1,Xiaomi 13,Android 14,NPE:ShopScreen.renderFeatured,ShopScreen.renderFeatured(ShopScreen.kt:214) <- ShopScreen.onOpen(ShopScreen.kt:88),u86750
+2026-09-16T18:11:00Z,2.4.0,Pixel 8,Android 15,GoogleSignInException:10,AuthManager.onSignInResult(AuthManager.kt:142),u44438
+2026-09-17T02:10:00Z,2.4.1,iPhone 13,iOS 17.6,NPE:ShopScreen.renderFeatured,ShopScreen.renderFeatured(ShopScreen.swift:198) <- ShopScreen.onOpen(ShopScreen.swift:71),u68875
+2026-09-17T09:45:00Z,2.4.1,iPhone 14 Pro,iOS 18.0,NPE:ShopScreen.renderFeatured,ShopScreen.renderFeatured(ShopScreen.swift:198) <- ShopScreen.onOpen(ShopScreen.swift:71),u60566
+2026-09-17T10:46:00Z,2.4.1,OnePlus 12,Android 14,NPE:ShopScreen.renderFeatured,ShopScreen.renderFeatured(ShopScreen.kt:214) <- ShopScreen.onOpen(ShopScreen.kt:88),u68829
+2026-09-17T16:39:00Z,2.4.1,Xiaomi 13,Android 14,GoogleSignInException:10,AuthManager.onSignInResult(AuthManager.kt:142),u95847
+2026-09-17T18:51:00Z,2.4.1,iPhone 14 Pro,iOS 18.0,NPE:ShopScreen.renderFeatured,ShopScreen.renderFeatured(ShopScreen.swift:198) <- ShopScreen.onOpen(ShopScreen.swift:71),u69795

@@ -1,0 +1,13 @@
+{
+  "id": "FB-011",
+  "source": "app_store_review",
+  "received_at": "2026-09-15T18:05:00Z",
+  "author": "quietplayer",
+  "rating": 3,
+  "metadata": {
+    "device": "iPhone 13",
+    "os": "iOS 17.6",
+    "app_version": "2.3.9"
+  },
+  "text": "When I get a phone call mid-level the music never comes back after I hang up. Have to restart the game. Minor but annoying. Still on 2.3.9 because the update needs more storage than I have."
+}

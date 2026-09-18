@@ -1,0 +1,13 @@
+{
+  "id": "FB-007",
+  "source": "in_app_feedback",
+  "received_at": "2026-09-14T12:00:00Z",
+  "author": "u55821",
+  "rating": null,
+  "metadata": {
+    "device": "Pixel 7",
+    "os": "Android 14",
+    "app_version": "2.4.1"
+  },
+  "text": "Would love a colour blind mode, the red and green orbs look the same to me and I keep failing levels because of it. Great game otherwise."
+}

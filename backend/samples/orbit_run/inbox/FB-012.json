@@ -1,0 +1,13 @@
+{
+  "id": "FB-012",
+  "source": "discord",
+  "received_at": "2026-09-16T09:00:00Z",
+  "author": "TopTenTom",
+  "rating": null,
+  "metadata": {
+    "device": "Pixel 8",
+    "os": "Android 15",
+    "app_version": "2.4.1"
+  },
+  "text": "my leaderboard score shows as -2,094,332,110. I had about 2.2 billion. is this a display bug or did I actually lose it?"
+}
